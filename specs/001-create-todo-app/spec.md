@@ -95,32 +95,17 @@ As a user, I want my tasks to be saved in the browser so that I don't lose them 
 
 ## Success Criteria *(mandatory)*
 
-
-
 ### Measurable Outcomes
 
-
-
 - **SC-001**: 100% of tasks can be added, deleted, and toggled as completed.
-
 - **SC-002**: 100% of tasks persist across browser reloads.
-
 - **SC-003**: The application is fully responsive on screen widths from 320px to 1920px.
-
 - **SC-004**: The application achieves a Lighthouse accessibility score of 90 or higher.
-
 - **SC-005**: The application's code is organized into reusable React components.
-
 - **SC-006**: The application maintains smooth performance (60fps) during add, delete, and toggle animations for up to 100 tasks.
-
-
 
 ## Assumptions
 
-
-
 - The user has a modern web browser with JavaScript enabled.
-
 - The user's browser supports local storage.
-
 - The application will be developed in English.
