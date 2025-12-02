@@ -27,7 +27,7 @@ description: "Task list for Create To-Do App feature implementation"
 
 **Purpose**: Project initialization and basic structure
 
-- [ ] T001 [P] Setup Next.js Project and Configure Tailwind CSS: Initialize a new Next.js project with TypeScript, configure Tailwind CSS for styling. (Project root: `package.json`, `tailwind.config.js`, `postcss.config.js`, `next.config.js`)
+- [X] T001 [P] Setup Next.js Project and Configure Tailwind CSS: Initialize a new Next.js project with TypeScript, configure Tailwind CSS for styling. (Project root: `package.json`, `tailwind.config.js`, `postcss.config.js`, `next.config.js`)
 
 ---
 
@@ -109,8 +109,8 @@ description: "Task list for Create To-Do App feature implementation"
 **Purpose**: Improvements that affect multiple user stories
 
 - [ ] T011 [P] Build Footer Component: Implement `implementation/app/components/Footer.tsx` with optional info/credits and responsive design.
-- [ ] T012 [P] Style & Make Responsive: Apply Tailwind CSS breakpoints for responsiveness and refine styling across components. (Files: Multiple components, `implementation/app/styles/globals.css`)
-- [ ] T013 Manual Test Functionality: Manually test add, delete, toggle, local storage persistence, and edge cases. (N/A - manual testing)
+- [X] T012 [P] Style & Make Responsive: Apply Tailwind CSS breakpoints for responsiveness and refine styling across components. (Files: Multiple components, `implementation/app/styles/globals.css`)
+- [X] T013 Manual Test Functionality: Manually test add, delete, toggle, local storage persistence, and edge cases. (N/A - manual testing)
 
 ---
 
